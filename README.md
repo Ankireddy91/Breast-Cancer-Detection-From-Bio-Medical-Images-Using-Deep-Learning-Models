@@ -29,5 +29,3 @@ dataset/
 ## Note
 This project is for educational and academic purposes only.
 
-## Author
-Ankireddy Jillella
